@@ -28,9 +28,11 @@ const About = () => {
             <div className='pretitle'>{pretitle}</div>
             <h2 className='h2 capitalize'>{title}</h2>
             <p className='mb-8 max-w-[560px]'>{subtitle}</p>
+            <a href='#contact'>
             <button className='btn capitalize mx-auto lg:mx-0'>
               {btnText}
             </button>
+            </a>
           </motion.div>
           {/* image */}
           <motion.div

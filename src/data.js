@@ -15,7 +15,7 @@ import MenuImg2 from '../src/assets/img/menu/2.png';
 import MenuImg3 from '../src/assets/img/menu/3.png';
 import MenuImg4 from '../src/assets/img/menu/4.png';
 import SignatureImg from '../src/assets/img/team/signature.png';
-import ChefImg from '../src/assets/img/team/chef.png';
+import ChefImg from '../src/assets/img/team/chefVinsmake.png';
 import Avatar1 from '../src/assets/img/testimonial/avatar1.png';
 import Avatar2 from '../src/assets/img/testimonial/avatar2.png';
 import Avatar3 from '../src/assets/img/testimonial/avatar3.png';
@@ -47,11 +47,11 @@ export const socialData = [
 ];
 
 export const aboutData = {
-  pretitle: 'our story',
-  title: 'who we are',
+  pretitle: 'Our Story',
+  title: `Vinsmake's Coffee`,
   subtitle:
-    'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Amet consequatur, quasi minima molestiae ex exercitationem culpa quisquam architecto quaerat, iusto dolores labore, sapiente magni rem commodi aperiam ad dolorem neque ducimus. Placeat vel non quod quis pariatur a aperiam, aliquam adipisci voluptatum voluptatem sit cupiditate dolore natus beatae earum omnis.',
-  btnText: 'find out more',
+    `Vinsmake's Coffee was born from a dream about a Coffee House with beans from all the world, with a lot of peaople drinking his favorite coffee with Lo-Fi music, in his favorite coffee house.`,
+  btnText: 'Find us',
   image: AboutImg,
 };
 
@@ -91,10 +91,10 @@ export const menuData = {
 export const teamData = {
   pretitle: 'our team',
   title: 'meet our chef',
-  sub1: ' Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis adipisci repudiandae enim ratione corrupti voluptatum suscipit distinctio dolor.',
-  sub2: 'Sequi exercitationem quae deserunt reiciendis nesciunt perferendis atque quisquam, odit facere! Minima esse reiciendis, magnam fugiat totam maxime consequatur perspiciatis voluptas consequuntur.',
-  name: 'sara peter',
-  occupation: 'executive chef',
+  sub1: ' Not only our chef have a lot of experience in many coffee house arrount Mexico, all of our team have been arround Mexico and the world, trying to fin the best of the best coffee beans',
+  sub2: 'Gastronomic Business Manager ',
+  name: 'Enrique Vinsmake',
+  occupation: 'Compulsive Coffee Drinker',
   signatureImg: SignatureImg,
   chefImg: ChefImg,
 };
